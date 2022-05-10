@@ -51,6 +51,11 @@ body {
   margin-left: 3px;
   margin-top: -20px;
 }
+@media (max-width: 426px) {
+  .upper {
+    font-size: 10px;
+  }
+}
 
 .clean, .back, .percent, .divide, .mul, .sub, .add {
   color: #ff7c01;
